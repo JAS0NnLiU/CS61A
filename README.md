@@ -1,2 +1,2 @@
 # CS61A
-# SOLUTIONS
+# HWs & Labs & Projs Solutions 
